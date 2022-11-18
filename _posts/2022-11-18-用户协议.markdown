@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "IR Discovery用户协议"
+date:   2022-11-18 15:03:49 +0800
+categories: jekyll update
+---
+IR Discovery用户协议
+更新日期:2022年11月18日
+
+尊敬的IR Discovery(以下简称app)用户，在使用我们的app之前请您阅读如下服务协议，使用我们的app即表示您接受本协议，请您务必认真仔细阅读本协议，特别涉及免除责任的条款。
+1、用户协议的确认和接受
+使用我们的app就表示您同意接受本协议的所有条件和条款。
+2、用户协议条款的变更和修改
+我们在必要时将会修改协议条款，协议内容一旦发生变更，将会在app或协议内容给与变更提示。如果您不同意所修改的内容，您可以放弃使用我们的app。如果您继续使用本app，则视为您接收用户协议的变更。
+3、免责部分
+
+	•	用户在本app发表的内容仅表明其个人的立场和观点，并不代表本app的立场和观点。
+	•	作为内容的发表者，需自行对发表的内容负责，因所发表的内容引发的纠纷，由内容发表者承诺全部法律和连带责任。
+	•	本app不保证网络服务一定能够满足用户的需求，也不保证网络服务不会中断，对网络服务的及时性，安全性，准确性都不做任何保证。
+	•	因不可抗力或维护后台导致网络服务中断或内容丢失，本app不承担任何责任。
+
+4、用户行为
+4.1用户承诺不得利用本App发布如下内容:
+	•	危害中国宪法所确定的基本原则的;
+	•	危害中国国家安全，泄漏国家秘密，颠覆国家政权，破坏国家统一的;
+	•	危害中国民族团结的;
+	•	散步淫秽，色情，赌博，暴力，凶杀，恐怖，教唆犯罪的;
+	•	侮辱诽谤他人，侵害他人合法权益的;
+	•	含有中国法律行政规范禁止的其它内容的信息;
+
+4.2本app有权对违反上述承诺的内容予以删除
+
+
+
+IR Discovery Agreement
+Update Date: 2022-11-18
+
+Dear IR Discovery (hereinafter referred to as app) users, before using our app, please read the following service agreement. Using our app means that you accept this agreement. Please be sure to read this Agreement carefully, especially the terms of exemption from liability.
+
+1. Confirmation and acceptance of user agreement
+   By using our app, you agree to accept all the terms and conditions of this agreement.
+
+2. Change and modification of user agreement terms
+   We will modify the terms of the agreement when necessary. Once the content of the agreement is changed, we will give a change prompt on the app or the content of the agreement. If you don't agree with the modified content, you can give up using our app. If you continue to use this app, you will be deemed to have received changes to the user agreement.
+
+3. Exemption part
+
+   •	The content published by users in this app only indicates their personal positions and opinions, and does not represent the positions and opinions of this app.
+   •	As a content publisher, he shall be responsible for the published content on his own. In case of disputes arising from the published content, the content publisher shall undertake all legal and joint liabilities.
+   •	This app does not guarantee that the network service can meet the needs of users, nor does it guarantee that the network service will not be interrupted, nor does it guarantee the timeliness, security and accuracy of the network service.
+   •	This app does not take any responsibility for network service interruption or content loss due to force majeure.
+
+4、User behavior
+4.1Users promise not to use this app to publish the following content:
+	•	Endangering the basic principles established in the constitution of China;
+	•	Factors that undermine the unity of the Chinese nation;
+	•	Endangering China's national security, divulging state secrets, subverting state power and undermining national unity;
+	•	Those who preach obscenity, pornography, gambling, violence, murder, terror and abet crime;
+	•	Insulting and slandering others and infringing upon their legitimate rights and interests;
+	•	Information containing other contents prohibited by Chinese laws and administrative norms;
+
+4.2This app has the right to delete the content that violates the above commitment.
